@@ -1,0 +1,32 @@
+{
+  "users": {
+    "leo": {
+      "email": "leo@gmail.com",
+      "pw_hash": "$2b$12$Q9dTv7tubGGWVvGa00FjO.bmv5JLd6cBXy0R7YNC8IOAcnkMHmoHa"
+    }
+  },
+  "vaults": {
+    "leo": [
+      {
+        "site": "google",
+        "pw": "gAAAAABpGyORCFS3P4txK8nnlUS5XU_PYqZtEfE8dEPvQQuMfwaopCMGvTqw2T-Wp5ZMacpQ9RvqAjdl3VTr8ob9wtlgAnG8dw=="
+      },
+      {
+        "site": "facebook",
+        "pw": "gAAAAABpGyOlG39RbILfRk7ep5CimnZTA3FoHDMp7LRCcyx0QFzVss_bjCbyqT1dfQ57vE-5aRM_xkI__bklnMyjOJQUWqaaE1Vu2_8ziu82xumUGpcO14A="
+      },
+      {
+        "site": "twitter",
+        "pw": "gAAAAABpGyiN9-TIaBm1bH4B5AhlCpN4YF2OYdkAusavVVUueLzXGHQWvkDSgrenFFaC6NPrmJ5a2F2q0kbjdfJLawTAQQkFPw=="
+      },
+      {
+        "site": "zomato",
+        "pw": "gAAAAABpGyif5Uj6KCGzENygXDujfEcCX5yid2Ddsb804WGaJ13pAEw9OuGhfF2bWaUcsbrEH9FE_9CmdLc3iulSzwSjPTEQrw=="
+      },
+      {
+        "site": "abz.co",
+        "pw": "gAAAAABpGyjk4GMzFiI5Aszq4Vr81EtjQc6ZAZkFlU-Ey8LYff7vhltxL4WfGIwy8gg0qIL4I7j5TK8pieIPGHvi-9DJwPtYGg=="
+      }
+    ]
+  }
+}
